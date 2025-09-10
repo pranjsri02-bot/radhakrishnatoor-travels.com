@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto','Arial','sans-serif';
+}
+#nav{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    height: 400px;
+    background-color: #121f50;
+    color: white;
+    padding: 50px;
+}
+.heading{
+    color: orangered;
+}
+.margin{
+    margin: 10px;
+}
+.password{
+    text-decoration: none;
+}
